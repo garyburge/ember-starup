@@ -1,0 +1,10 @@
+{
+  "name": "carolinatextilemills",
+  "version": "0.1.0",
+  "dependencies": {
+    "yii": "https://github.com/yiisoft/yii.git#1.1.14",
+	  "bootstrap": "https://github.com/twbs/bootstrap.git#3.1.1",
+	  "font-awesome": "https://github.com/FortAwesome/Font-Awesome.git#4.0.3",
+    "yii-auth": "https://github.com/Crisu83/yii-auth.git#v1.6.0"
+  }
+}
